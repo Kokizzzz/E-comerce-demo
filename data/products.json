@@ -1,0 +1,222 @@
+[
+  {
+    "id": "p1",
+    "name": "Wireless Noise-Canceling Headphones",
+    "description": "Comfort fit, deep bass, travel-ready.",
+    "priceCents": 8999,
+    "currency": "usd",
+    "image": "https://images.unsplash.com/photo-1518441902117-f0a3a1c8a7e1?auto=format&fit=crop&w=1200&q=60",
+    "category": "electronics"
+  },
+  {
+    "id": "p2",
+    "name": "Mechanical Keyboard (RGB)",
+    "description": "Tactile switches, sturdy build.",
+    "priceCents": 6999,
+    "currency": "usd",
+    "image": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?auto=format&fit=crop&w=1200&q=60",
+    "category": "electronics"
+  },
+  {
+    "id": "p3",
+    "name": "Ergonomic Wireless Mouse",
+    "description": "Smooth tracking, all-day comfort.",
+    "priceCents": 3499,
+    "currency": "usd",
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=1200&q=60",
+    "category": "electronics"
+  },
+  {
+    "id": "p4",
+    "name": "27\" 4K Monitor",
+    "description": "Crisp colors for work + gaming.",
+    "priceCents": 21999,
+    "currency": "usd",
+    "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?auto=format&fit=crop&w=1200&q=60",
+    "category": "electronics"
+  },
+  {
+    "id": "p5",
+    "name": "Portable Bluetooth Speaker",
+    "description": "Loud, clear sound in a compact body.",
+    "priceCents": 4999,
+    "currency": "usd",
+    "image": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?auto=format&fit=crop&w=1200&q=60",
+    "category": "electronics"
+  },
+  {
+    "id": "p6",
+    "name": "Slim Laptop Backpack",
+    "description": "Padded sleeve + organized pockets.",
+    "priceCents": 4599,
+    "currency": "usd",
+    "image": "https://images.unsplash.com/photo-1526481280695-3c687fd643ed?auto=format&fit=crop&w=1200&q=60",
+    "category": "electronics"
+  },
+
+  {
+    "id": "p7",
+    "name": "Classic Black T-Shirt",
+    "description": "Soft cotton tee, everyday fit.",
+    "priceCents": 1999,
+    "currency": "usd",
+    "image": "https://images.unsplash.com/photo-1520975958225-5a5b0c54d4f2?auto=format&fit=crop&w=1200&q=60",
+    "category": "clothing"
+  },
+  {
+    "id": "p8",
+    "name": "Warm Gray Hoodie",
+    "description": "Cozy fleece, premium feel.",
+    "priceCents": 4999,
+    "currency": "usd",
+    "image": "https://images.unsplash.com/photo-1520975867597-0f4c3f13de2f?auto=format&fit=crop&w=1200&q=60",
+    "category": "clothing"
+  },
+  {
+    "id": "p9",
+    "name": "Lightweight Jacket",
+    "description": "Wind-resistant, easy layering.",
+    "priceCents": 7999,
+    "currency": "usd",
+    "image": "https://images.unsplash.com/photo-1520975682030-1f3c7c2d1c2a?auto=format&fit=crop&w=1200&q=60",
+    "category": "clothing"
+  },
+  {
+    "id": "p10",
+    "name": "Running Shoes",
+    "description": "Cushioned sole, breathable mesh.",
+    "priceCents": 9999,
+    "currency": "usd",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=60",
+    "category": "clothing"
+  },
+  {
+    "id": "p11",
+    "name": "Everyday Cap",
+    "description": "Adjustable strap, clean look.",
+    "priceCents": 2299,
+    "currency": "usd",
+    "image": "https://images.unsplash.com/photo-1523380744952-b7e00e6e2ffa?auto=format&fit=crop&w=1200&q=60",
+    "category": "clothing"
+  },
+
+  {
+    "id": "p12",
+    "name": "Minimal Desk Lamp",
+    "description": "Warm light, modern style.",
+    "priceCents": 3899,
+    "currency": "usd",
+    "image": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=1200&q=60",
+    "category": "home"
+  },
+  {
+    "id": "p13",
+    "name": "Kitchen Knife Set",
+    "description": "Sharp blades, easy grip handles.",
+    "priceCents": 5999,
+    "currency": "usd",
+    "image": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?auto=format&fit=crop&w=1200&q=60",
+    "category": "home"
+  },
+  {
+    "id": "p14",
+    "name": "Decor Throw Pillow",
+    "description": "Soft fabric, cozy vibe.",
+    "priceCents": 2499,
+    "currency": "usd",
+    "image": "https://images.unsplash.com/photo-1582582494700-53b2b49479b0?auto=format&fit=crop&w=1200&q=60",
+    "category": "home"
+  },
+  {
+    "id": "p15",
+    "name": "Storage Basket Set",
+    "description": "Neat organization for any room.",
+    "priceCents": 3299,
+    "currency": "usd",
+    "image": "https://images.unsplash.com/photo-1615874959474-d609969a20ed?auto=format&fit=crop&w=1200&q=60",
+    "category": "home"
+  },
+  {
+    "id": "p16",
+    "name": "Modern Accent Chair",
+    "description": "Comfort + style for living spaces.",
+    "priceCents": 13999,
+    "currency": "usd",
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=60",
+    "category": "home"
+  },
+
+  {
+    "id": "p17",
+    "name": "Adjustable Dumbbells",
+    "description": "Space-saving strength training.",
+    "priceCents": 12999,
+    "currency": "usd",
+    "image": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?auto=format&fit=crop&w=1200&q=60",
+    "category": "sports"
+  },
+  {
+    "id": "p18",
+    "name": "Yoga Mat (Non-Slip)",
+    "description": "Comfort grip for workouts.",
+    "priceCents": 2799,
+    "currency": "usd",
+    "image": "https://images.unsplash.com/photo-1599447421416-3414500d18a5?auto=format&fit=crop&w=1200&q=60",
+    "category": "sports"
+  },
+  {
+    "id": "p19",
+    "name": "Outdoor Water Bottle",
+    "description": "Insulated, leak-proof lid.",
+    "priceCents": 2499,
+    "currency": "usd",
+    "image": "https://images.unsplash.com/photo-1526401485004-2aa7c7da8c0f?auto=format&fit=crop&w=1200&q=60",
+    "category": "sports"
+  },
+  {
+    "id": "p20",
+    "name": "Cycling Helmet",
+    "description": "Lightweight protection + airflow.",
+    "priceCents": 4499,
+    "currency": "usd",
+    "image": "https://images.unsplash.com/photo-1593766788306-28561086694a?auto=format&fit=crop&w=1200&q=60",
+    "category": "sports"
+  },
+
+  {
+    "id": "p21",
+    "name": "Atomic Habits (Demo Book)",
+    "description": "Build better habits every day.",
+    "priceCents": 1499,
+    "currency": "usd",
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=60",
+    "category": "books"
+  },
+  {
+    "id": "p22",
+    "name": "Business Strategy (Demo Book)",
+    "description": "Frameworks to grow smarter.",
+    "priceCents": 1899,
+    "currency": "usd",
+    "image": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&w=1200&q=60",
+    "category": "books"
+  },
+  {
+    "id": "p23",
+    "name": "Modern Fiction (Demo Book)",
+    "description": "A page-turner for weekends.",
+    "priceCents": 1299,
+    "currency": "usd",
+    "image": "https://images.unsplash.com/photo-1513475382585-d06e58bcb0ea?auto=format&fit=crop&w=1200&q=60",
+    "category": "books"
+  },
+  {
+    "id": "p24",
+    "name": "Tech Trends (Demo Book)",
+    "description": "A tour of modern technology.",
+    "priceCents": 1699,
+    "currency": "usd",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=60",
+    "category": "books"
+  }
+]
